@@ -10,4 +10,5 @@ setup(name='imagesr',
             'pillow',
             'tqdm'
       ],
+      packages=['imagesr'],
       zip_safe=False)
