@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='image_super_resolution',
+setup(name='imagesr',
       version='1.0',
       description='Image Superresolution project',
       url="https://github.com/Smitharry/ImageSuperResolution",
