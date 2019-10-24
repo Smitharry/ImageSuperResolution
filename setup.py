@@ -8,7 +8,6 @@ setup(name='ImageSuperResolution',
       author_email='kuznetsovamaria1996@gmail.com',
       install_requires=[
             'pillow',
-            'random',
             'tqdm'
       ],
       zip_safe=False)
